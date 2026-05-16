@@ -28,7 +28,7 @@ Documentation = "https://github.com/1lch2/ComfyUI-AnimaPromptFormatter/wiki"
 "Bug Tracker" = "https://github.com/1lch2/ComfyUI-AnimaPromptFormatter/issues"
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "linch97"
 DisplayName = "ComfyUI-AnimaPromptFormatter"
 Icon = ""
 includes = [] 
